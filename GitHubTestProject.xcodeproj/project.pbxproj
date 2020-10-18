@@ -16,6 +16,8 @@
 		ABBE81FD253CE1EB00F6E5C1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = ABBE81FB253CE1EB00F6E5C1 /* LaunchScreen.storyboard */; };
 		ABBE8208253CE1EB00F6E5C1 /* GitHubTestProjectTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = ABBE8207253CE1EB00F6E5C1 /* GitHubTestProjectTests.swift */; };
 		ABBE8213253CE1EB00F6E5C1 /* GitHubTestProjectUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = ABBE8212253CE1EB00F6E5C1 /* GitHubTestProjectUITests.swift */; };
+		ABBE8225253CE3DD00F6E5C1 /* Dreams Master Package Overview Mex.pdf in Resources */ = {isa = PBXBuildFile; fileRef = ABBE8223253CE3DD00F6E5C1 /* Dreams Master Package Overview Mex.pdf */; };
+		ABBE8226253CE3DD00F6E5C1 /* Everyday Angels Cover.jpg in Resources */ = {isa = PBXBuildFile; fileRef = ABBE8224253CE3DD00F6E5C1 /* Everyday Angels Cover.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +53,8 @@
 		ABBE820E253CE1EB00F6E5C1 /* GitHubTestProjectUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = GitHubTestProjectUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		ABBE8212253CE1EB00F6E5C1 /* GitHubTestProjectUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GitHubTestProjectUITests.swift; sourceTree = "<group>"; };
 		ABBE8214253CE1EB00F6E5C1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		ABBE8223253CE3DD00F6E5C1 /* Dreams Master Package Overview Mex.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "Dreams Master Package Overview Mex.pdf"; sourceTree = "<group>"; };
+		ABBE8224253CE3DD00F6E5C1 /* Everyday Angels Cover.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Everyday Angels Cover.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +110,8 @@
 				ABBE81F1253CE1E700F6E5C1 /* ViewController.swift */,
 				ABBE81F3253CE1E700F6E5C1 /* Main.storyboard */,
 				ABBE81F9253CE1EB00F6E5C1 /* Assets.xcassets */,
+				ABBE8224253CE3DD00F6E5C1 /* Everyday Angels Cover.jpg */,
+				ABBE8223253CE3DD00F6E5C1 /* Dreams Master Package Overview Mex.pdf */,
 				ABBE81FB253CE1EB00F6E5C1 /* LaunchScreen.storyboard */,
 				ABBE81FE253CE1EB00F6E5C1 /* Info.plist */,
 				ABBE81F6253CE1E700F6E5C1 /* GitHubTestProject.xcdatamodeld */,
@@ -234,9 +240,11 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				ABBE8226253CE3DD00F6E5C1 /* Everyday Angels Cover.jpg in Resources */,
 				ABBE81FD253CE1EB00F6E5C1 /* LaunchScreen.storyboard in Resources */,
 				ABBE81FA253CE1EB00F6E5C1 /* Assets.xcassets in Resources */,
 				ABBE81F5253CE1E700F6E5C1 /* Main.storyboard in Resources */,
+				ABBE8225253CE3DD00F6E5C1 /* Dreams Master Package Overview Mex.pdf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
